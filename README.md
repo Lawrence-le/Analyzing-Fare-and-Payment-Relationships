@@ -1,4 +1,4 @@
-![vecteezy_gauss-distribution-standard-normal-distribution-gaussian_7695518](https://github.com/Lawrence-le/statistical-analysis-AB-Testing/assets/151991077/c185d953-7a86-4cd5-9681-139356bdfa36)
+![Uploading image.png…]()
 
 # Statistical Analysis, Hypothesis A/B Testing
 As a data professional in a data consulting firm, called Automatidata. The current project for our newest client, the New York City Taxi & Limousine Commission.
